@@ -11,6 +11,9 @@
 # production
 /build
 
+# use yarn instead of npm
+package-lock.json
+
 # misc
 .DS_Store
 .env.local
